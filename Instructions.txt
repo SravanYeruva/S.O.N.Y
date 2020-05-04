@@ -1,0 +1,4 @@
+Install the application on any Android Device
+Set the reply text.
+thats it , app is deployed
+just keep the app open and focus on driving
