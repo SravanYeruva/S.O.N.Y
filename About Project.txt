@@ -1,0 +1,11 @@
+Full Form : Some One Needs You
+Framework Used : MIT AI 2
+Aim : To provide automated Message assistance and  automatic reply while driving.
+Project Description :
+It  basically solves the problem of message reply while driving cars and bikes etc.
+so, when a message is received the app reads the message sender name aloud via car speaker or device speaker and parallely it sends a automatic custom predefined message to the sender.
+This helps a lot in message organisation while driving.
+Improvisations:
+Using AI reply message can be updated dynamically.
+Same Can be used for other messages such as Emails etc if found an Urgency.
+Achievements: Won 1st prize in University Talent Hunt Competition
